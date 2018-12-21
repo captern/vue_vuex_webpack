@@ -1,1 +1,1 @@
-# vue_vuex_webpack
+vue + vuex + vue-router + webpack
